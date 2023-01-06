@@ -1,0 +1,46 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(https://fogonasado.com/wp-content/uploads/2018/12/fogon-menu-ph.jpg?id=323);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h3, h4 {
+    text-align: center;
+    color: yellow;
+    font-weight: 20px;
+}
+img {
+    max-height: 400px;
+
+}
+li{
+    list-style: none;
+
+
+}
+span {
+    color: yellow;
+}
+#thirdDiv {
+    height: 800px;
+    /*modfique la propiedad height y width para que la img  no sobre pase el div */
+    width: 600px;
+    padding: 50px;
+    background-color: black;
+    border: solid 8px yellow;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
