@@ -27,6 +27,10 @@ body {
   background: #003147;
   padding: 40px;
 }
+.img-perfil{
+  border-radius: solid 10px white;
+  background: #09b8e4;
+}
 /*Contacto Datos Personales.*/
 
 .profileText {
